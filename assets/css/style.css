@@ -2233,13 +2233,12 @@ PRELOADER
   .about-area .about-thumb::before {
     position: absolute;
     content: '';
-    height: 630px;
-    width: 630px;
+    
     border: 120px solid #1b3869;
 
     background: #fff;
     z-index: -1;
-    left: -200px;
+
     top: 40px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
       .about-area .about-thumb::before {
