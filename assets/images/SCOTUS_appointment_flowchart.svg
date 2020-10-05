@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="97cm" height="118cm" viewBox="-868 -1 1929 2342" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path style="fill: #ffc0cb" d="M 266.667 0 L 533.333,0 C 570.152,0 600,31.34 600,70 C 600,108.66 570.152,140 533.333,140 L 266.667,140 C 229.848,140 200,108.66 200,70 C 200,31.3401 229.848,0 266.667,0z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" d="M 266.667 0 L 533.333,0 C 570.152,0 600,31.34 600,70 C 600,108.66 570.152,140 533.333,140 L 266.667,140 C 229.848,140 200,108.66 200,70 C 200,31.3401 229.848,0 266.667,0"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="74.2333">
+      <tspan x="400" y="74.2333">Supreme Court Vacancy</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="200" y="200" width="400" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" x="200" y="200" width="400" height="140"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="273.783">
+      <tspan x="400" y="273.783">Vacancy must be filled</tspan>
+    </text>
+  </g>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="74.7">
+    <tspan x="400" y="74.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="274.7">
+    <tspan x="400" y="274.7"></tspan>
+  </text>
+  <g>
+    <polygon style="fill: #add8e6" points="250.956,400 600,400 549.044,540 200,540 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="250.956,400 600,400 549.044,540 200,540 "/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="473.783">
+      <tspan x="400" y="473.783">President makes nomination</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffa500" points="400,600 600,670 400,740 200,670 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="400,600 600,670 400,740 200,670 "/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="673.783">
+      <tspan x="400" y="673.783">Senate in recess?</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="200" y="800" width="400" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" x="200" y="800" width="400" height="140"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="865.317">
+      <tspan x="400" y="865.317">Senate considers nominee, </tspan>
+      <tspan x="400" y="882.25">or recess appointed justice</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffa500" points="400,1000 600,1070 400,1140 200,1070 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="400,1000 600,1070 400,1140 200,1070 "/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="1056.85">
+      <tspan x="400" y="1056.85">Does </tspan>
+      <tspan x="400" y="1073.78">Senate confirm person</tspan>
+      <tspan x="400" y="1090.72">in question?</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #cccc22" d="M 200 1400 L 600,1400 L 600,1520 C 520,1500 480,1500 400,1520 C 320,1540 280,1540 200,1520 L 200,1400z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" d="M 200 1400 L 600,1400 L 600,1520 C 520,1500 480,1500 400,1520 C 320,1540 280,1540 200,1520 L 200,1400"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="1454.23">
+      <tspan x="400" y="1454.23">President signs commission</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="200" y="1600" width="400" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" x="200" y="1600" width="400" height="140"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="1665.32">
+      <tspan x="400" y="1665.32">Nominee takes two oaths of office: </tspan>
+      <tspan x="400" y="1682.25">constitutional, and judicial</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="200" y="1800" width="400" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" x="200" y="1800" width="400" height="140"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="1865.32">
+      <tspan x="400" y="1865.32">NOMINEE BECOMES</tspan>
+      <tspan x="400" y="1882.25">SUPREME COURT JUSTICE</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffa500" points="400,2000 600,2070 400,2140 200,2070 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="400,2000 600,2070 400,2140 200,2070 "/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="2065.32">
+      <tspan x="400" y="2065.32">Is justice</tspan>
+      <tspan x="400" y="2082.25">confirmed by Senate?</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffc0cb" d="M 266.667 2200 L 533.333,2200 C 570.152,2200 600,2231.34 600,2270 C 600,2308.66 570.152,2340 533.333,2340 L 266.667,2340 C 229.848,2340 200,2308.66 200,2270 C 200,2231.34 229.848,2200 266.667,2200z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" d="M 266.667 2200 L 533.333,2200 C 570.152,2200 600,2231.34 600,2270 C 600,2308.66 570.152,2340 533.333,2340 L 266.667,2340 C 229.848,2340 200,2308.66 200,2270 C 200,2231.34 229.848,2200 266.667,2200"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="2265.77">
+      <tspan x="400" y="2265.77">Justice is a permanently installed</tspan>
+      <tspan x="400" y="2282.7">Supreme Court justice, filling vacancy</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffa500" points="860,600 1060,670 860,740 660,670 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="860,600 1060,670 860,740 660,670 "/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="656.85">
+      <tspan x="860" y="656.85">Does </tspan>
+      <tspan x="860" y="673.783">president wait for Senate </tspan>
+      <tspan x="860" y="690.717">to resume?</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="660" y="800" width="400" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" x="660" y="800" width="400" height="140"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="873.783">
+      <tspan x="860" y="873.783">President makes recess appointment</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="660" y="1400" width="400" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" x="660" y="1400" width="400" height="140"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="1465.32">
+      <tspan x="860" y="1465.32">Justice is a recess appointed justice,</tspan>
+      <tspan x="860" y="1482.25">subject to review by Senate</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffa500" points="-59.0227,800 141.955,870 -59.0227,940 -260,870 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="-59.0227,800 141.955,870 -59.0227,940 -260,870 "/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-59.0227" y="856.85">
+      <tspan x="-59.0227" y="856.85">Is person </tspan>
+      <tspan x="-59.0227" y="873.783">a nominee, or a</tspan>
+      <tspan x="-59.0227" y="890.717">recess appointed justice?</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffa500" points="-60,1000 140,1070 -60,1140 -260,1070 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="-60,1000 140,1070 -60,1140 -260,1070 "/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-60" y="1056.85">
+      <tspan x="-60" y="1056.85">Does Senate reject</tspan>
+      <tspan x="-60" y="1073.78">person by vote before</tspan>
+      <tspan x="-60" y="1090.72">end of session?</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffa500" points="-520,1000 -320,1070 -520,1140 -720,1070 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="-520,1000 -320,1070 -520,1140 -720,1070 "/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1056.85">
+      <tspan x="-520" y="1056.85">Is reject a</tspan>
+      <tspan x="-520" y="1073.78">nominee, or recess</tspan>
+      <tspan x="-520" y="1090.72">appointed justice?</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="-720" y="800" width="400" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" x="-720" y="800" width="400" height="140"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="865.317">
+      <tspan x="-520" y="865.317">Recess appointed justice term will end</tspan>
+      <tspan x="-520" y="882.25">with Senate session, leaving vacancy</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="-720" y="200" width="400" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" x="-720" y="200" width="400" height="140"/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="265.317">
+      <tspan x="-520" y="265.317">Nominee is rejected and does not become</tspan>
+      <tspan x="-520" y="282.25">a Supreme Court justice, leaving vacancy</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffa500" points="400.097,1200 600.195,1270.9 400.097,1341.8 200,1270.9 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="400.097,1200 600.195,1270.9 400.097,1341.8 200,1270.9 "/>
+    <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400.097" y="1257.75">
+      <tspan x="400.097" y="1257.75">Is confirmed</tspan>
+      <tspan x="400.097" y="1274.68">person a nominee, or a recess</tspan>
+      <tspan x="400.097" y="1291.62">appointed justice?</tspan>
+    </text>
+  </g>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="877.425">
+    <tspan x="400" y="877.425"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="1077.43">
+    <tspan x="400" y="1077.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="1077.43">
+    <tspan x="400" y="1077.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="1420" y="947.425">
+    <tspan x="1420" y="947.425"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="1077.43">
+    <tspan x="400" y="1077.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="1077.43">
+    <tspan x="400" y="1077.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="1677.43">
+    <tspan x="400" y="1677.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400" y="1877.43">
+    <tspan x="400" y="1877.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-60" y="1077.43">
+    <tspan x="-60" y="1077.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1077.43">
+    <tspan x="-520" y="1077.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1077.43">
+    <tspan x="-520" y="1077.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="677.425">
+    <tspan x="860" y="677.425"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="140" x2="400" y2="190.264"/>
+    <polygon style="fill: #000000" points="400,197.764 395,187.764 400,190.264 405,187.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,197.764 395,187.764 400,190.264 405,187.764 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="340" x2="400" y2="389.281"/>
+    <polygon style="fill: #000000" points="400,396.781 395,386.781 400,389.281 405,386.781 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,396.781 395,386.781 400,389.281 405,386.781 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="540.983" x2="400" y2="590.264"/>
+    <polygon style="fill: #000000" points="400,597.764 395,587.764 400,590.264 405,587.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,597.764 395,587.764 400,590.264 405,587.764 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="740" x2="400" y2="790.264"/>
+    <polygon style="fill: #000000" points="400,797.764 395,787.764 400,790.264 405,787.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,797.764 395,787.764 400,790.264 405,787.764 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="940" x2="400" y2="990.264"/>
+    <polygon style="fill: #000000" points="400,997.764 395,987.764 400,990.264 405,987.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,997.764 395,987.764 400,990.264 405,987.764 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="1520.91" x2="400" y2="1590.26"/>
+    <polygon style="fill: #000000" points="400,1597.76 395,1587.76 400,1590.26 405,1587.76 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,1597.76 395,1587.76 400,1590.26 405,1587.76 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="1740" x2="400" y2="1789.28"/>
+    <polygon style="fill: #000000" points="400,1796.78 395,1786.78 400,1789.28 405,1786.78 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,1796.78 395,1786.78 400,1789.28 405,1786.78 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="1940" x2="400" y2="1989.27"/>
+    <polygon style="fill: #000000" points="400,1996.77 395,1986.77 400,1989.27 405,1986.77 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,1996.77 395,1986.77 400,1989.27 405,1986.77 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="2140" x2="400" y2="2189.28"/>
+    <polygon style="fill: #000000" points="400,2196.78 395,2186.78 400,2189.28 405,2186.78 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,2196.78 395,2186.78 400,2189.28 405,2186.78 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="600" y1="670" x2="650.264" y2="670"/>
+    <polygon style="fill: #000000" points="657.764,670 647.764,675 650.264,670 647.764,665 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="657.764,670 647.764,675 650.264,670 647.764,665 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="860" y1="740" x2="860" y2="789.281"/>
+    <polygon style="fill: #000000" points="860,796.781 855,786.781 860,789.281 865,786.781 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="860,796.781 855,786.781 860,789.281 865,786.781 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="760" y1="705" x2="509.145" y2="796.659"/>
+    <polygon style="fill: #000000" points="502.1,799.233 509.777,791.104 509.145,796.659 513.209,800.497 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="502.1,799.233 509.777,791.104 509.145,796.659 513.209,800.497 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="600" y1="2070" x2="855.712" y2="1548.74"/>
+    <polygon style="fill: #000000" points="859.015,1542.01 859.1,1553.19 855.712,1548.74 850.122,1548.78 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="859.015,1542.01 859.1,1553.19 855.712,1548.74 850.122,1548.78 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="860" y1="1400" x2="604.288" y2="878.741"/>
+    <polygon style="fill: #000000" points="600.985,872.008 609.878,878.783 604.288,878.741 600.9,883.188 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="600.985,872.008 609.878,878.783 604.288,878.741 600.9,883.188 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="860" y1="940" x2="604.354" y2="1451.29"/>
+    <polygon style="fill: #000000" points="601,1458 601,1446.82 604.354,1451.29 609.944,1451.29 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="601,1458 601,1446.82 604.354,1451.29 609.944,1451.29 "/>
+  </g>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="400.098" y="1278.33">
+    <tspan x="400.098" y="1278.33"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400.034" y1="1140.98" x2="400.058" y2="1189.3"/>
+    <polygon style="fill: #000000" points="400.062,1196.8 395.057,1186.8 400.058,1189.3 405.057,1186.79 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400.062,1196.8 395.057,1186.8 400.058,1189.3 405.057,1186.79 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400.098" y1="1341.8" x2="400.062" y2="1389.27"/>
+    <polygon style="fill: #000000" points="400.056,1396.77 395.064,1386.77 400.062,1389.27 405.064,1386.78 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400.056,1396.77 395.064,1386.77 400.062,1389.27 405.064,1386.78 "/>
+  </g>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1077.43">
+    <tspan x="-520" y="1077.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1077.43">
+    <tspan x="-520" y="1077.43"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-59.0228" y="877.425">
+    <tspan x="-59.0228" y="877.425"></tspan>
+  </text>
+  <text font-size="21.4489" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-59.0228" y="877.425">
+    <tspan x="-59.0228" y="877.425"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="200" y1="1070" x2="149.736" y2="1070"/>
+    <polygon style="fill: #000000" points="142.236,1070 152.236,1065 149.736,1070 152.236,1075 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="142.236,1070 152.236,1065 149.736,1070 152.236,1075 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-60" y1="1000" x2="-59.6281" y2="950.528"/>
+    <polygon style="fill: #000000" points="-59.5717,943.028 -54.647,953.066 -59.6281,950.528 -64.6467,952.99 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-59.5717,943.028 -54.647,953.066 -59.6281,950.528 -64.6467,952.99 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-260" y1="1070" x2="-310.264" y2="1070"/>
+    <polygon style="fill: #000000" points="-317.764,1070 -307.764,1065 -310.264,1070 -307.764,1075 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-317.764,1070 -307.764,1065 -310.264,1070 -307.764,1075 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-520" y1="1000" x2="-520" y2="949.736"/>
+    <polygon style="fill: #000000" points="-520,942.236 -515,952.236 -520,949.736 -525,952.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-520,942.236 -515,952.236 -520,949.736 -525,952.236 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-260" y1="870" x2="-310.264" y2="870"/>
+    <polygon style="fill: #000000" points="-317.764,870 -307.764,865 -310.264,870 -307.764,875 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-317.764,870 -307.764,865 -310.264,870 -307.764,875 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -723.702,279.004 A 1040,1040 0 0 0 -720,1070"/>
+    <polygon style="fill: #000000" points="-720.86,272.064 -720.091,283.218 -723.745,278.987 -729.322,279.372 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-720.86,272.064 -720.091,283.218 -723.745,278.987 -729.322,279.372 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-320" y1="270" x2="190.286" y2="235.654"/>
+    <polygon style="fill: #000000" points="197.769,235.15 188.127,240.81 190.286,235.654 187.456,230.833 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="197.769,235.15 188.127,240.81 190.286,235.654 187.456,230.833 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-520" y1="800" x2="192.159" y2="275.772"/>
+    <polygon style="fill: #000000" points="198.199,271.326 193.11,281.28 192.159,275.772 187.182,273.227 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="198.199,271.326 193.11,281.28 192.159,275.772 187.182,273.227 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-59.0228" y1="800" x2="195.486" y2="313.626"/>
+    <polygon style="fill: #000000" points="198.963,306.981 198.757,318.16 195.486,313.626 189.897,313.523 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="198.963,306.981 198.757,318.16 195.486,313.626 189.897,313.523 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 200,1270.9 A 1599.68,1599.68 0 0 0 196.988,2260.74"/>
+    <polygon style="fill: #000000" points="199.302,2267.88 191.429,2259.94 196.96,2260.75 200.929,2256.81 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="199.302,2267.88 191.429,2259.94 196.96,2260.75 200.929,2256.81 "/>
+  </g>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="600" y="644.7">
+    <tspan x="600" y="644.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="620" y="644.7">
+    <tspan x="620" y="644.7">yes</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="420" y="764.7">
+    <tspan x="420" y="764.7">no</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="620" y="644.7">
+    <tspan x="620" y="644.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="640" y="644.7">
+    <tspan x="640" y="644.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="620" y="644.7">
+    <tspan x="620" y="644.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="660" y="724.7">
+    <tspan x="660" y="724.7">yes</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="880" y="764.7">
+    <tspan x="880" y="764.7">no</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="760" y="1824.7">
+    <tspan x="760" y="1824.7">no</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-40" y="984.7">
+    <tspan x="-40" y="984.7">no</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="180" y="1044.7">
+    <tspan x="180" y="1044.7">no</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="420" y="1164.7">
+    <tspan x="420" y="1164.7">yes</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-280" y="1044.7">
+    <tspan x="-280" y="1044.7">yes</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="40" y="544.7">
+    <tspan x="40" y="544.7">nominee</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-280" y="827.767">
+    <tspan x="-280" y="827.767">recess</tspan>
+    <tspan x="-280" y="844.7">appointed</tspan>
+    <tspan x="-280" y="861.633">justice</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-440" y="504.7">
+    <tspan x="-440" y="504.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-440" y="504.7">
+    <tspan x="-440" y="504.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-280" y="1044.7">
+    <tspan x="-280" y="1044.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="420" y="2164.7">
+    <tspan x="420" y="2164.7">yes</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-480" y="967.767">
+    <tspan x="-480" y="967.767">recess</tspan>
+    <tspan x="-480" y="984.7">appointed</tspan>
+    <tspan x="-480" y="1001.63">justice</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="80" y="1747.77">
+    <tspan x="80" y="1747.77">recess</tspan>
+    <tspan x="80" y="1764.7">appointed</tspan>
+    <tspan x="80" y="1781.63">justice</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-840" y="644.7">
+    <tspan x="-840" y="644.7">nominee</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="440" y="1364.7">
+    <tspan x="440" y="1364.7">nominee</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-600" y="744.7">
+    <tspan x="-600" y="744.7"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="660" y1="200" x2="660" y2="340"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="660" y1="200" x2="1060" y2="200"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="660" y1="340" x2="1060" y2="340"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="870" y="277.5">
+      <tspan x="870" y="277.5"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="660" y1="400" x2="660" y2="540"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="660" y1="400" x2="1060" y2="400"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="660" y1="540" x2="1060" y2="540"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="870" y="477.5">
+      <tspan x="870" y="477.5"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-320" y1="1400" x2="-320" y2="1540"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-320" y1="1400" x2="-720" y2="1400"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-320" y1="1540" x2="-720" y2="1540"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-530" y="1477.5">
+      <tspan x="-530" y="1477.5"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-320" y1="1600" x2="-320" y2="1740"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-320" y1="1600" x2="-720" y2="1600"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-320" y1="1740" x2="-720" y2="1740"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-530" y="1677.5">
+      <tspan x="-530" y="1677.5"></tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" x1="-320" y1="1670" x2="199.038" y2="1670"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" x1="-320" y1="1470" x2="199.038" y2="1470"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" x1="600" y1="270" x2="660" y2="270"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" x1="660" y1="470" x2="575.148" y2="470"/>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="274.7">
+    <tspan x="860" y="274.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="432.367">
+    <tspan x="860" y="432.367">The United States Constitution, Article II, Section 2, Clause 2</tspan>
+    <tspan x="860" y="449.3">establishes the overall legal requirement of presidential</tspan>
+    <tspan x="860" y="466.233">nomination, together with Senatorial confirmation, </tspan>
+    <tspan x="860" y="483.167">of Supreme Court justices, which this chart details.  </tspan>
+    <tspan x="860" y="500.1">Clause 3 provides the president the power of </tspan>
+    <tspan x="860" y="517.033">recess appointment, when the Senate is officially in recess.</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="474.7">
+    <tspan x="860" y="474.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="474.7">
+    <tspan x="860" y="474.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="474.7">
+    <tspan x="860" y="474.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="232.367">
+    <tspan x="860" y="232.367">The Judiciary Act of 1869 specified that the</tspan>
+    <tspan x="860" y="249.3">Supreme Court shall consist of nine justices:</tspan>
+    <tspan x="860" y="266.233">one Chief Justice, and eight Associate Justices.</tspan>
+    <tspan x="860" y="283.167">By law, any vacancies on the Court must therefore be filled.</tspan>
+    <tspan x="860" y="300.1">The relevant language of the 1869 act, specifying the</tspan>
+    <tspan x="860" y="317.033">size of the court, was codified as 28 U.S.C. § 1.</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="274.7">
+    <tspan x="860" y="274.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1405.43">
+    <tspan x="-520" y="1405.43"></tspan>
+    <tspan x="-520" y="1422.37">5 U.S.C. § 2902 specifies the manner in which presidential </tspan>
+    <tspan x="-520" y="1439.3">commissions of federal officers are to be prepared.</tspan>
+    <tspan x="-520" y="1456.23">This entails all judicial officers, which include the </tspan>
+    <tspan x="-520" y="1473.17">Supreme Court.  Additionally, 28 U.S.C. § 4 specifies that </tspan>
+    <tspan x="-520" y="1490.1">precedence of justices is based upon date of commission, </tspan>
+    <tspan x="-520" y="1507.03">not upon dates of oaths being taken.  Nevertheless,</tspan>
+    <tspan x="-520" y="1523.97">a nominee must take two oaths before becoming a justice.</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1623.9">
+    <tspan x="-520" y="1623.9">5 U.S.C. § 3331 provides the text of the constitutional</tspan>
+    <tspan x="-520" y="1640.83">oath, and requires its administration to a nominee.</tspan>
+    <tspan x="-520" y="1657.77">Additionally, 28 U.S.C. § 453 provides the text of</tspan>
+    <tspan x="-520" y="1674.7">the judicial oath, which all federal judges must take</tspan>
+    <tspan x="-520" y="1691.63">before assuming office.  Upon the presidential execution of</tspan>
+    <tspan x="-520" y="1708.57">a commission, and the administration of both oaths,</tspan>
+    <tspan x="-520" y="1725.5">the nominee is a Supreme Court justice.</tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="474.7">
+    <tspan x="860" y="474.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="474.7">
+    <tspan x="860" y="474.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="474.7">
+    <tspan x="860" y="474.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1474.7">
+    <tspan x="-520" y="1474.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1474.7">
+    <tspan x="-520" y="1474.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="860" y="274.7">
+    <tspan x="860" y="274.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1674.7">
+    <tspan x="-520" y="1674.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1674.7">
+    <tspan x="-520" y="1674.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1674.7">
+    <tspan x="-520" y="1674.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1474.7">
+    <tspan x="-520" y="1474.7"></tspan>
+  </text>
+  <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:Arial;font-style:normal;font-weight:700" x="-520" y="1674.7">
+    <tspan x="-520" y="1674.7"></tspan>
+  </text>
+</svg>
