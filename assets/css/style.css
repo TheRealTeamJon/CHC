@@ -1,10 +1,10 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Omnivus
-    Template URI: http://gizmoder.com/
-    Description: Technology IT Solutions & Services HTML5 Template
-    Author: Gizmoder Technology
-    Author URI: http://gizmoder.com/
+    C hall creddit By Jonathan Sowl (Jonsowl.com)
+    @theJonsow
+    Description: Credit site
+    Author: Jonathan Sowl Original
+    Author URI: Chall credit
     Version: 1.0
 
 -----------------------------------------------------------------------------------
@@ -114,6 +114,55 @@ p {
   height: 100%; }
 
 /*===== All Button Style =====*/
+.crch {
+ }
+
+.main2-btn {
+
+  background: #0844a9;
+  text-align: center;
+
+  position: relative;
+  display: inline-block;
+
+
+  display: inline-block;
+  font-weight: 700;
+
+  white-space: nowrap;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 2px solid #0c59db;
+  margin-left: 20px;
+  padding: 20px 40px;
+  font-size: 16px;
+  line-height: 60px;
+  border-radius: 6px;
+  color: #fff;
+  cursor: pointer;
+  z-index: 5;
+  -webkit-transition: all 0.4s ease-out 0s;
+  -moz-transition: all 0.4s ease-out 0s;
+  -ms-transition: all 0.4s ease-out 0s;
+  -o-transition: all 0.4s ease-out 0s;
+  transition: all 0.4s ease-out 0s;
+  background-color: #0c59db; }
+  .main2-btn:hover {
+    background-color: transparent;
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.2); }
+  .main2-btn.main2-btn-2 {
+    background-color: transparent;
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.2); }
+    .main2-btn.main2-btn-2:hover {
+      background-color: #0c59db;
+      border-color: #0c59db;
+      color: #fff; }
+
 .main-btn {
   display: inline-block;
   font-weight: 700;
@@ -2233,7 +2282,7 @@ PRELOADER
   .about-area .about-thumb::before {
     position: absolute;
     content: '';
-    
+
     border: 120px solid #1b3869;
 
     background: #fff;
@@ -4267,12 +4316,16 @@ PRELOADER
       padding-right: 0; } }
 .services-optimization-area .services-optimization-content .action-support-item {
   margin-top: 40px;
-  background: #ff5f6e;
-  text-align: center;
-  padding: 20px 40px;
-  position: relative;
-  display: inline-block;
-  z-index: 5; }
+   background: #ff5f6e;
+   text-align: center;
+   padding: 20px 40px;
+   position: relative;
+   border-radius: 6px;
+   display: inline-block;
+   z-index: 5; }
+
+
+
   .services-optimization-area .services-optimization-content .action-support-item i {
     position: absolute;
     top: 8px;
