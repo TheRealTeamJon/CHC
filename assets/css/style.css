@@ -118,17 +118,11 @@ p {
  }
 
 .main2-btn {
-
-  background: #0844a9;
+  background: #750101;
   text-align: center;
-
   position: relative;
   display: inline-block;
-
-
-  display: inline-block;
   font-weight: 700;
-
   white-space: nowrap;
   vertical-align: middle;
   -webkit-user-select: none;
